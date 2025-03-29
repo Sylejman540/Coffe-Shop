@@ -1,0 +1,101 @@
+.wrapper{
+    background-image: url(images/banner.png);
+    background-position: center;
+    background-size: cover;
+    color: white;
+    height: 670px;
+}
+
+.sign-btn{
+    background-color: #F9C06A;
+    color: black;
+    border-radius: 20px;
+    padding: 10px 30px;
+    font-weight: bold;
+}
+
+.banner h1{
+    font-size: 120px;
+}
+
+.bestcoffee h1{
+    color: #603809;
+    font-weight: bold;
+}
+
+.bestcoffee p{
+    color: #707070;
+}
+
+.enjoy{
+    color: #603809;
+}
+
+.enjoy-p{
+    color: #707070;
+}
+
+.article-h1{
+    color: #603809;
+}
+
+.article-btn{
+    background-color: #F9C06A;
+    color: black;
+    border-radius: 20px;
+    padding: 10px 30px;
+    font-weight: bold;
+}
+
+.article{
+    background-color: hsl(36, 45%, 90%);
+    border: px solid gray;
+    border-radius: 5px;
+}
+
+.diffrente{
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: #FFEED8;
+}
+
+.diffrente1{
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: #FFF9F1;
+}
+
+.amazing{
+    background-image: url(images/background.png);
+    background-position: center;
+    background-size: cover;
+    color: white;
+    height: 650px;
+}
+
+.contact{
+    background-image: url(images/background.png);
+    background-position: center;
+    background-size: cover;
+    color: white;
+    height: 400px;
+    text-align: center;
+}
+
+.contact-btn{
+    background-color: #F9C06A;
+    color: black;
+    padding: 10px 30px;
+    font-weight: bold;
+}
+
+input{
+    background-color: white;
+    color: black;
+    padding: 10px 60px;
+}
+
+footer{
+    background-color: #442808;
+    color: gray;
+}
